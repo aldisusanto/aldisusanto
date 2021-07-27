@@ -9,8 +9,8 @@
 -----
 <p>
 <a href="https://github.com/aldisusanto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldisusanto&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldisusanto&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldisusanto&show_icons=true&theme=dark&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldisusanto&layout=compact&theme=dark&langs_count=10"/>
 </a>
 </p>
 
