@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Aldi Susanto, I am a student from Indonesia and I am a software developer, nice to meet you.
+### My name is Aldi Susanto, I am a student from Indonesia, nice to meet you.
 
 - 🔭 I’m currently working on my Personal Projects
 
