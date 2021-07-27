@@ -2,15 +2,15 @@
 
 ### My name is Aldi Susanto, I am a student from Indonesia, nice to meet you.
 
-- 🔭 I’m currently working on my Personal Projects
+- I’m currently working on my Personal Projects
+- How to reach me: <a href="https://aldisusanto.herokuapp.com/">My Website</a> | <a href="https://www.instagram.com/aldisusan42/">Instagram</a> | <a href="https://wa.me/+62895334255395">Whatsapp</a> | <a href="https://www.linkedin.com/in/aldi-susanto-2932a4169/">Linkedin</a> 
+
 
 -----
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
+<p>
 <a href="https://github.com/aldisusanto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldisusanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldisusanto&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldisusanto&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldisusanto&layout=compact&theme=dark"/>
 </a>
 </p>
 
