@@ -3,7 +3,7 @@
 ### My name is Aldi Susanto, I am a student from Indonesia, nice to meet you.
 
 - I’m currently working on my Personal Projects
-- How to reach me: <a href="https://aldisusanto.herokuapp.com/">My Website</a> | <a href="https://www.instagram.com/aldisusan42/">Instagram</a> | <a href="https://wa.me/+62895334255395">Whatsapp</a> | <a href="https://www.linkedin.com/in/aldi-susanto-2932a4169/">Linkedin</a> 
+- How to reach me: <a href="https://aldisusanto.netlify.app">My Website</a> | <a href="https://www.instagram.com/aldisusan42/">Instagram</a> | <a href="https://wa.me/+62895334255395">Whatsapp</a> | <a href="https://www.linkedin.com/in/aldi-susanto-2932a4169/">Linkedin</a> 
 
 
 -----
