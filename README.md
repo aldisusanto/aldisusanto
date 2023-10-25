@@ -20,6 +20,12 @@
 ###
 
 <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aldisusanto.aldisusanto&left_color=aliceblue&right_color=aquamarine"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
@@ -58,5 +64,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/aldisusanto/aldisusanto/output/snake.svg" alt="Snake animation" />
 
 ###
