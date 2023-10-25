@@ -1,5 +1,13 @@
 <div align="center">
-  <img height="550" src="https://cdn.pixabay.com/photo/2021/11/14/19/04/programming-6795536_1280.png"  />
+  <img height="600" src="https://cdn.pixabay.com/photo/2021/11/14/19/04/programming-6795536_1280.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aldisusanto.aldisusanto&right_color=blue"  />
 </div>
 
 ###
@@ -8,20 +16,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldisusanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldisusanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="center">Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aldisusanto.aldisusanto&left_color=aliceblue&right_color=aquamarine"  />
-</div>
+<h3 align="center">💻 Tech Stack</h3>
 
 ###
 
@@ -63,8 +58,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aldisusanto/aldisusanto/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldisusanto&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldisusanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aldisusanto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
